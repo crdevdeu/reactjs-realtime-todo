@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "travix/base",
+    "travix/react"
+  ],
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0
+  }
+}

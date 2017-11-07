@@ -1,0 +1,9 @@
+export const UPDATE_TASKS = 'UPDATE_TASKS';
+export const UPDATE_TASKS_TOTAL = 'UPDATE_TASKS_TOTAL';
+export const CREATE_TASK = 'CREATE_TASK';
+export const TASK_CREATED = 'TASK_CREATED';
+export const SELECT_TASK_TO_EDIT = 'SELECT_TASK_TO_EDIT';
+export const EDIT_TASK = 'EDIT_TASK';
+export const TASK_EDITED = 'TASK_EDITED';
+export const DELETE_TASK = 'DELETE_TASK';
+export const TASK_DELETED = 'TASK_DELETED';

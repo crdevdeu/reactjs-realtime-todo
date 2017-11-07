@@ -1,0 +1,20 @@
+.task-item {
+  .task-info {
+    .task-title {
+      font-weight: 700;
+      word-wrap: break-word;
+    }
+    .task-description {
+      word-wrap: break-word;
+    }
+  }
+  .task-item-buttons {
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+
+    .edit-button {
+      margin-right: 10px;
+    }
+  }
+}

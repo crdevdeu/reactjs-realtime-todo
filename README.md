@@ -1,23 +1,25 @@
-## App features
+# Reacjs-realtime-todo
 
-- Users can add, edit and delete a Task
+Realtime todo app built with reactjs
 
-- Multiple clients can connect to the server and use the App, realtime changes take place as users add/ edit/ and delete tasks
+### App features
 
-- It can handle big Json data files, to check just change the data/tasks.json
+* Users can add, edit and delete a Task
 
-- Responsive layout
+* Multiple clients can connect to the server and use the App, realtime changes take place as users add/ edit/ and delete tasks
 
-## How to run
+* It can handle big Json data files, to check just change the data/tasks.json
 
-- You need to have node installed on your environment
+* Responsive layout
 
-   $npm install
+### How to run
 
-- Open two terminal windows, execute the following commands, one on each terminal window
+* You need to have node installed on your environment
 
-   $npm run server
+   `npm install`
 
+* Open two terminal windows, execute the following commands, one on each terminal window
 
-   $npm run dev
+   `npm run server`
+   `npm run dev`
 
